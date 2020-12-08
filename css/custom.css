@@ -1,0 +1,125 @@
+h1{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 3.5em;
+}
+
+header{
+	background: url("photos/gardening-4545662_1920.png") no-repeat 0 -200px ;
+	height: 150px;
+	color: #ffffff;
+	padding-top: 30px;
+	min-height: 70px;
+}
+
+header a{
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font size: 16px;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+header #branding{
+	float: left;
+}
+
+header #branding h1{
+	margin: 0px;
+}
+
+header nav{
+	float: right;
+	margin-bottom: 10px;
+}
+
+header .highlight, header .current a{
+	color: #d9c6b0;
+	font-weight: bold;
+}
+
+header a:hover{
+	color: #cccccc;
+	font-weight:bold;
+}
+
+.shop-cat-box{
+	height: 300px;
+}
+
+
+
+
+.tab{
+	color: white;
+}
+
+
+.Category{
+	background-color: #402c20;
+	width: 300px;
+	font-weight: bold;
+	font-size: 1.5em;
+	float: left;
+	margin-left: 0px;
+}
+
+
+
+.slide{
+	margin-top: 50px;
+}
+
+
+body{
+  background: #d9c6b0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.search {
+  width: 500px;
+  position: relative;
+  display: flex;
+  right: 500px;
+}
+
+.searchTerm {
+  width: 100%;
+  border-right: none;
+  padding: 5px;
+  height: 36px;
+   border: 1px solid white;
+  outline: none;
+  color: #9DBFAF;
+  margin-top: 10px;
+}
+
+.searchTerm:focus{
+  color: #402c20;
+}
+
+.searchButton {
+  width: 40px;
+  height: 36px;
+  background: #402c20;
+   border: 1px solid white;
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.dropdown-menu li{
+	text-align: center;
+}
+
+
+
+
+
